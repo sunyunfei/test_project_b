@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "test_project_b"
-  s.version      = "3"
+  s.version      = "4"
   s.summary      = "test_project_b."
 
   # This description is used to generate tags and improve search results.
